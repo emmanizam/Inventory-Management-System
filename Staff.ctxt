@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Staff
+comment1.params=
+comment1.target=Staff()
+comment2.params=staffID\ password\ staffName
+comment2.target=Staff(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=password
+comment3.target=void\ setPassword(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getStaffID()
+comment5.params=
+comment5.target=java.lang.String\ getPassword()
+comment6.params=staffID
+comment6.target=java.lang.String\ getStaffName(java.lang.String)
+numComments=7

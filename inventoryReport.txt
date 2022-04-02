@@ -1,0 +1,53 @@
+
+***************************
+   INVENTORY REPORT
+***************************
+
+2021/07/05 10:11:05
+Report by Sarah Lee
+
+APPAREL SUMMARY
+Total Item in Apparel: 4
+
+APPAREL SUMMARY
+Total Item in Apparel: 4
+Highest Quantity Item:
+
+Item ID: A111
+Brand: Nike
+Price: RM35.90
+Total Quantity: 11
+Size: [XS = 2	S = 2	M = 2	L = 3	XL = 2]
+Gender: Female
+
+Lowest Quantity Item:
+
+Item ID: P016
+Brand: Under Armour
+Price: RM19.90
+Total Quantity: 4
+Size: [XS = 2	S = 1	M = 1	L = 0	XL = 0]
+Gender: Unisex
+
+EQUIPMENT SUMMARY
+Total Item in Equipment: 4
+Highest Quantity Item:
+
+Item ID: N112
+Brand: Adidas
+Price: RM199.00
+Total Quantity: 5
+Category: Swimming
+Age Category: Adult
+
+Lowest Quantity Item:
+
+Item ID: R119
+Brand: Puma
+Price: RM129.90
+Total Quantity: 4
+Category: Running
+Age Category: Adult
+
+			------End------
+

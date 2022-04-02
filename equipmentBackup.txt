@@ -1,0 +1,4 @@
+R119;4;129.9;4;Running;Adult;S123
+N112;2;199.0;5;Swimming;Adult;S321
+P444;3;67.9;6;Gym;None;S123
+U012;5;89.9;5;Gym;None;S321
